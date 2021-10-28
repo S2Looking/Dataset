@@ -1,7 +1,9 @@
 # Dataset
 Change detection datasets
 
-The S2Looking dataset will be uploaded to Baidu network disk and Google Drive in November.
+The S2Looking dataset will be uploaded to Baidu network disk and Google Drive in November AFTER the competition at rsaicp.com.
+
+NOTE: Any cheating on the competition would not be tolerated! The competition teams will be required to re-implement their results with spot supervision and any cheating organisation would be excluded from the follow-up projects.
 
 
 LEVIR-CD+ can also be downloaded at
