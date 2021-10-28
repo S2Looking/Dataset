@@ -1,7 +1,7 @@
 # Dataset
 Change detection datasets
 
-S2Looking will be uploaded on November.
+The S2Looking dataset will be uploaded to Baidu network disk and Google Drive in November.
 
 
 LEVIR-CD+ can also be downloaded at
