@@ -1,7 +1,7 @@
 # Dataset
 Change detection datasets
 
-The S2Looking dataset will be uploaded to Baidu network disk and Google Drive in November.
+The S2Looking dataset will be uploaded to Google Drive in November.
 
 S2Looking
 https://drive.google.com/drive/folders/1zzb6hif2hwWx4z8UIMLpMAInkhbmmrFY?usp=sharing
